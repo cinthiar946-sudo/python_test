@@ -1,2 +1,2 @@
-# python_test
-TripleTen
+# pass
+fail
